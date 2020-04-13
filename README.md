@@ -30,7 +30,7 @@ Each notebook has the code to reproduce an experiment
 ## Style and genre distribution
 
 <p align="center">
-  <img src="https://github.com/ignaciogatti/artwork-curator-experiment/blob/master/plots/encode_style_genre_dist.png" width="500" height="500">
+  <img src="https://github.com/ignaciogatti/artwork-curator-experiment/blob/master/plots/style_genre_specialization.png" width="500" height="500">
 
-  <img src="https://github.com/ignaciogatti/artwork-curator-experiment/blob/master/plots/social_graph_style_genre_dist.png" width="500" height="500">
+  <img src="https://github.com/ignaciogatti/artwork-curator-experiment/blob/master/plots/style_genre_diversity.png" width="500" height="500">
 </p>
