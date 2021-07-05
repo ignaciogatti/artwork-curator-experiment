@@ -1,0 +1,161 @@
+{
+  "source_artwork":{
+    "title": "Self Portrait",
+    "artist": "Tsuguharu Foujita",
+    "imageUrl": "https://uploads7.wikiart.org/images/tsuguharu-foujita/self-portrait-1921.jpg!Large.jpg",
+    "year": 1921,
+    "id": 43809
+  },
+  "sim_artworks": [
+    {
+      "title": "Self-portrait",
+      "artist": "ernst ludwig kirchner",
+      "imageUrl": "https://uploads8.wikiart.org/images/ernst-ludwig-kirchner/self-portrait-1.jpg!Large.jpg",
+      "id": 7201
+    },
+    {
+      "title": "self-portrait",
+      "artist": "david kakabadze",
+      "imageUrl": "https://uploads2.wikiart.org/images/david-kakabadze/self-portrait-2.jpg!Large.jpg",
+      "id": 2290
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "ernst ludwig kirchner",
+      "imageUrl": "https://uploads6.wikiart.org/images/ernst-ludwig-kirchner/self-portrait.jpg!Large.jpg",
+      "id": 23221
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "david bomberg",
+      "imageUrl": "https://uploads3.wikiart.org/images/david-bomberg/self-portrait-1932.jpg!Large.jpg",
+      "id": 9012
+    },
+    {
+      "title": "Self-portrait",
+      "artist": "david kakabadze",
+      "imageUrl": "https://uploads3.wikiart.org/images/david-kakabadze/self-portrait(1).jpg!Large.jpg",
+      "id": 4988
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "egon schiele",
+      "imageUrl": "https://uploads2.wikiart.org/images/egon-schiele/self-portrait-1910.jpg!Large.jpg",
+      "id": 16884
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "george bouzianis",
+      "imageUrl": "https://uploads6.wikiart.org/images/george-bousianis/self-portrait-1913.jpg!Large.jpg",
+      "id": 16108
+    },
+    {
+      "title": "Self-portrait",
+      "artist": "alexej von jawlensky",
+      "imageUrl": "https://uploads1.wikiart.org/images/alexej-von-jawlensky/self-portrait-1905.jpg!Large.jpg",
+      "id": 4574
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "john bratby",
+      "imageUrl": "https://uploads1.wikiart.org/images/john-bratby/self-portrait-1953.jpg!Large.jpg",
+      "id": 15791
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "richard gerstl",
+      "imageUrl": "https://uploads4.wikiart.org/images/richard-gerstl/self-portrait-1907.jpg!Large.jpg",
+      "id": 25226
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "egon schiele",
+      "imageUrl": "https://uploads2.wikiart.org/images/egon-schiele/self-portrait-1910.jpg!Large.jpg",
+      "id": 19454
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "george bouzianis",
+      "imageUrl": "https://uploads3.wikiart.org/images/george-bousianis/self-portrait-1.jpg!Large.jpg",
+      "id": 17968
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "elaine de kooning",
+      "imageUrl": "https://uploads7.wikiart.org/images/elaine-de-kooning/self-portrait-1946.jpg!Large.jpg",
+      "id": 29714
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "max gubler",
+      "imageUrl": "https://uploads0.wikiart.org/images/max-gubler/self-portrait-1949.jpg!Large.jpg",
+      "id": 29252
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "chaim soutine",
+      "imageUrl": "https://uploads7.wikiart.org/images/chaim-soutine/self-portrait.jpg!Large.jpg",
+      "id": 26042
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "max gubler",
+      "imageUrl": "https://uploads0.wikiart.org/images/max-gubler/self-portrait-1949.jpg!Large.jpg",
+      "id": 29820
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "kathe kollwitz",
+      "imageUrl": "https://uploads5.wikiart.org/images/kathe-kollwitz/not_detected_235975.jpg!Large.jpg",
+      "id": 4514
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "richard gerstl",
+      "imageUrl": "https://uploads4.wikiart.org/images/richard-gerstl/self-portrait-1907.jpg!Large.jpg",
+      "id": 25663
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "richard gerstl",
+      "imageUrl": "https://uploads4.wikiart.org/images/richard-gerstl/self-portrait-1907.jpg!Large.jpg",
+      "id": 17155
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "jose de almada-negreiros",
+      "imageUrl": "https://uploads5.wikiart.org/images/jose-de-almada-negreiros/self-portrait-1928.jpg!Large.jpg",
+      "id": 28035
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "egon schiele",
+      "imageUrl": "https://uploads2.wikiart.org/images/egon-schiele/self-portrait-1910.jpg!Large.jpg",
+      "id": 18318
+    },
+    {
+      "title": "Self-portrait",
+      "artist": "gerard sekoto",
+      "imageUrl": "https://uploads3.wikiart.org/images/gerard-sekoto/self-portrait-1947.jpg!Large.jpg",
+      "id": 27787
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "mario eloy",
+      "imageUrl": "https://uploads0.wikiart.org/images/mario-eloy/self-portrait-1928.jpg!Large.jpg",
+      "id": 27871
+    },
+    {
+      "title": "Self Portrait",
+      "artist": "francis picabia",
+      "imageUrl": "https://uploads0.wikiart.org/images/francis-picabia/self-portrait.jpg!Large.jpg",
+      "id": 25379
+    },
+    {
+      "title": "Self-Portrait",
+      "artist": "raoul dufy",
+      "imageUrl": "https://uploads0.wikiart.org/images/raoul-dufy/self-portrait-1901.jpg!Large.jpg",
+      "id": 24333
+    }
+  ]
+}

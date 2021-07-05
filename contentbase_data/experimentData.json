@@ -1,0 +1,161 @@
+{
+  "source_artwork":{
+    "title": "Waterloo Bridge",
+    "artist": "Claude Monet",
+    "imageUrl": "https://uploads8.wikiart.org/images/claude-monet/waterloo-bridge-london-1.jpg!Large.jpg",
+    "year": 1903,
+    "id": 7066
+  },
+  "sim_artworks": [
+    {
+      "title": "Waterloo Bridge",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads4.wikiart.org/images/claude-monet/waterloo-bridge-1901.jpg!Large.jpg",
+      "id": 5229
+    },
+    {
+      "title": "Waterloo Place",
+      "artist": "robert spencer",
+      "imageUrl": "https://uploads5.wikiart.org/images/robert-spencer/waterloo-place-1917.jpg!Large.jpg",
+      "id": 14255
+    },
+    {
+      "title": "The Bridge",
+      "artist": "maurice de vlaminck",
+      "imageUrl": "https://uploads1.wikiart.org/images/maurice-de-vlaminck/the-bridge.jpg!Large.jpg",
+      "id": 16723
+    },
+    {
+      "title": "Parisian Bridge",
+      "artist": "raoul dufy",
+      "imageUrl": "https://uploads2.wikiart.org/images/raoul-dufy/parisian-bridge-1922.jpg!Large.jpg",
+      "id": 25508
+    },
+    {
+      "title": "Waterloo Bridge, Fog",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads3.wikiart.org/images/claude-monet/waterloo-bridge-fog.jpg!Large.jpg",
+      "id": 3519
+    },
+    {
+      "title": "Waterloo Row",
+      "artist": "robert spencer",
+      "imageUrl": "https://uploads3.wikiart.org/images/robert-spencer/waterloo-row-1917.jpg!Large.jpg",
+      "id": 15092
+    },
+    {
+      "title": "Waterloo Bridge, London",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads6.wikiart.org/images/claude-monet/waterloo-bridge-london.jpg!Large.jpg",
+      "id": 3206
+    },
+    {
+      "title": "Waterloo Bridge, Sunlight Effect",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads6.wikiart.org/images/claude-monet/waterloo-bridge-sunlight-effect.jpg!Large.jpg",
+      "id": 3585
+    },
+    {
+      "title": "Waterloo Bridge, Sunlight Effect",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads6.wikiart.org/images/claude-monet/waterloo-bridge-sunlight-effect.jpg!Large.jpg",
+      "id": 5116
+    },
+    {
+      "title": "Waterloo Bridge, Sunlight in the Fog",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads1.wikiart.org/images/claude-monet/waterloo-bridge-sunlight-in-the-fog.jpg!Large.jpg",
+      "id": 1610
+    },
+    {
+      "title": "The Argenteuil Bridge",
+      "artist": "gustave caillebotte",
+      "imageUrl": "https://uploads3.wikiart.org/images/gustave-caillebotte/the-argenteuil-bridge.jpg!Large.jpg",
+      "id": 7778
+    },
+    {
+      "title": "Waterloo Bridge at Sunset, Pink Effect",
+      "artist": "claude monet",
+      "imageUrl": "https://uploads3.wikiart.org/images/claude-monet/waterloo-bridge-at-sunset-pink-effect.jpg!Large.jpg",
+      "id": 2658
+    },
+    {
+      "title": "Bridge",
+      "artist": "konstantin korovin",
+      "imageUrl": "https://uploads1.wikiart.org/images/konstantin-korovin/bridge-1880.jpg!Large.jpg",
+      "id": 15728
+    },
+    {
+      "title": "bridge",
+      "artist": "david kakabadze",
+      "imageUrl": "https://uploads7.wikiart.org/images/david-kakabadze/bridge-1915.jpg!Large.jpg",
+      "id": 4907
+    },
+    {
+      "title": "A bridge",
+      "artist": "oleksandr bogomazov",
+      "imageUrl": "https://uploads4.wikiart.org/images/oleksandr-bogomazov/a-bridge-1908.jpg!Large.jpg",
+      "id": 3489
+    },
+    {
+      "title": "Landscape with Bridge",
+      "artist": "vasile dobrian",
+      "imageUrl": "https://uploads3.wikiart.org/images/vasile-dobrian/landscape-with-bridge-1963.jpg!Large.jpg",
+      "id": 26562
+    },
+    {
+      "title": "The Bridge at Argenteuil",
+      "artist": "gustave caillebotte",
+      "imageUrl": "https://uploads6.wikiart.org/images/gustave-caillebotte/the-bridge-at-argenteuil.jpg!Large.jpg",
+      "id": 5327
+    },
+    {
+      "title": "The Opening of Waterloo Bridge seen from Whitehall Stairs",
+      "artist": "john constable",
+      "imageUrl": "https://uploads7.wikiart.org/images/john-constable/the-opening-of-waterloo-bridge-seen-from-whitehall-stairs.jpg!Large.jpg",
+      "id": 282
+    },
+    {
+      "title": "The Bridge",
+      "artist": "egon schiele",
+      "imageUrl": "https://uploads8.wikiart.org/images/egon-schiele/the-bridge-1913.jpg!Large.jpg",
+      "id": 10436
+    },
+    {
+      "title": "On the Bridge",
+      "artist": "georg pauli",
+      "imageUrl": "https://uploads1.wikiart.org/images/georg-pauli/on-the-bridge-1888.jpg!Large.jpg",
+      "id": 1929
+    },
+    {
+      "title": "Bridge in Venice",
+      "artist": "samuel mutzner",
+      "imageUrl": "https://uploads5.wikiart.org/images/samuel-mutzner/pod-la-vene-ia-1929.jpg!Large.jpg",
+      "id": 16068
+    },
+    {
+      "title": "Napoleon at Waterloo",
+      "artist": "thomas jones barker",
+      "imageUrl": "https://uploads7.wikiart.org/images/thomas-jones-barker/napoleon-at-waterloo-1879.jpg!Large.jpg",
+      "id": 20214
+    },
+    {
+      "title": "Bridge",
+      "artist": "ivan shishkin",
+      "imageUrl": "https://uploads5.wikiart.org/images/ivan-shishkin/bridge-1873.jpg!Large.jpg",
+      "id": 17708
+    },
+    {
+      "title": "Laundresses near a Bridge",
+      "artist": "eugene boudin",
+      "imageUrl": "https://uploads1.wikiart.org/images/eugene-boudin/laundresses-near-a-bridge.jpg!Large.jpg",
+      "id": 12607
+    },
+    {
+      "title": "Little Bridge, Venice",
+      "artist": "maurice prendergast",
+      "imageUrl": "https://uploads2.wikiart.org/images/maurice-prendergast/little-bridge-venice.jpg!Large.jpg",
+      "id": 16043
+    }
+  ]
+}
